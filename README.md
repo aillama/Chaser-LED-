@@ -1,2 +1,2 @@
-# Chaser-LED-
+# Chaser-LED
 LED light chaser thing
